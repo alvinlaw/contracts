@@ -62,6 +62,28 @@ Bancor is a work in progress. Make sure you understand the risks before using it
 
 ### [Utilities](solidity/utils/README.md)
 
+### Deployed Kovan Testnet
+
+contractRegistry deployed at 0x1757a6463fE7F4c4bB33a3Fff10D6a5e152E80e2
+contractFeatures deployed at 0x35CDa570C4504B1464F43F6B59c80C3a77d9e61A
+bancorFormula deployed at 0xC3607d293f3cdEc4A6F75a7B787ED414630B1B6d
+bancorNetwork deployed at 0x5a8a71c5cE3824c62fEFF0042f2CdCDe023c0a33
+bancorNetworkPathFinder deployed at 0xD547E6cBB8A1be5e961AA9bdEEBF8B34e9D69BC6
+bancorConverterRegistry deployed at 0x3E200b0950fb26877e3c01581CAfe609Fb912651
+bancorConverterRegistryData deployed at 0xDD023d4BD29eE326827367cDC0ed8870a52643CE
+etherToken deployed at 0x05708921f9AC850d05db2645299C8b3708539763
+smartToken0 deployed at 0x1996702B6D7a795C9B5b4c64E6C51507951B0374
+smartToken1 deployed at 0x5363Bb40D1BD49f309e97c4f3af030D2C64cf12E
+smartToken2 deployed at 0x3A07FFdA6a14feCD6f34D11615196BD4704817b8
+smartToken3 deployed at 0x9b048416310eF13359AA1c1968FC0bb33E677906
+smartToken4 deployed at 0xE85656eB4a35159d4118cf3248560eA53817aE9C
+erc20TokenA deployed at 0x729B85Fbe194073F5857d5560C61c2923fC7149c
+erc20TokenB deployed at 0xcd2Ee44229AD23002aBC63387AB949CF21451417
+bancorConverter1 deployed at 0x324A4a8ea05052B2fC7767E07095b03BDfaE41b4
+bancorConverter2 deployed at 0x8d09Ba659Da77Cb23e96aD38Ae2e9034dAfF0087
+bancorConverter3 deployed at 0x5bF6CEBBCE4e6cD842103dC940849181eACB9e49
+bancorConverter4 deployed at 0xC92A9b05B19EBab9E9CD7D7b83eB187fF1D1dF24
+
 ## Collaborators
 
 * **[Yudi Levi](https://github.com/yudilevi)**
